@@ -2,7 +2,7 @@
   "profiles": {
     "CaesarCipherApp": {
       "commandName": "Project",
-      "commandLineArgs": "encrypt -s 4 \"Test String\""
+      "commandLineArgs": "encrypt \"Test String\""
     }
   }
 }
