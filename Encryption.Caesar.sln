@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption.Caesar", "Encryption.Caesar\Encryption.Caesar.csproj", "{A0397AB0-0845-4643-B7DA-6A2EA163EB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption.Caesar.Test", "Encryption.Caesar.Test\Encryption.Caesar.Test.csproj", "{494B411B-42FD-460A-9461-B736E2972CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipherApp", "CaesarCipherApp\CaesarCipherApp.csproj", "{11FFEF37-8B27-4CCA-93E4-6CCFF8B39EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0397AB0-0845-4643-B7DA-6A2EA163EB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0397AB0-0845-4643-B7DA-6A2EA163EB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0397AB0-0845-4643-B7DA-6A2EA163EB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0397AB0-0845-4643-B7DA-6A2EA163EB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494B411B-42FD-460A-9461-B736E2972CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494B411B-42FD-460A-9461-B736E2972CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494B411B-42FD-460A-9461-B736E2972CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494B411B-42FD-460A-9461-B736E2972CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FFEF37-8B27-4CCA-93E4-6CCFF8B39EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FFEF37-8B27-4CCA-93E4-6CCFF8B39EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FFEF37-8B27-4CCA-93E4-6CCFF8B39EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FFEF37-8B27-4CCA-93E4-6CCFF8B39EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF1502D-5BA9-4EC7-BADD-3B536E68395E}
+	EndGlobalSection
+EndGlobal
