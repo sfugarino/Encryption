@@ -21,6 +21,8 @@ namespace Encryption.Caesar
 
         private static char ShiftCharachter(char c, int shift)
         {
+            shift %= 26;
+
             if (!char.IsLetter(c))
                 return c;
 

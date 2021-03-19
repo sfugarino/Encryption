@@ -95,7 +95,7 @@ namespace CaesarCipherApp
                 Console.WriteLine(lineSeparator);
                 Console.WriteLine(heading);
                 Console.WriteLine(lineSeparator);
-                for (int i = -26; i < 27; i++)
+                for (int i = 0; i < 27; i++)
                 {
 
                     string paddedIndex = i.ToString();
